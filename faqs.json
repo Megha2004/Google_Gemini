@@ -1,0 +1,13 @@
+{
+    "faqs": [
+      {
+        "question": "How can I reset my password?",
+        "answer": "To reset your password, go to the login page, click 'Forgot Password', and follow the instructions."
+      },
+      {
+        "question": "What is your return policy?",
+        "answer": "You can return items within 30 days for a full refund."
+      }
+    ]
+  }
+  
